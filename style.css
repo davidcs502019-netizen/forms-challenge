@@ -106,3 +106,12 @@ button:focus {
   background-color: #eeeeee;
   cursor: pointer;
 }
+
+.woodland-image {
+  background-image: url("https://mdn.github.io/shared-assets/images/examples/learn/woodland-strip.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 50px;
+  width: 100%;
+}
